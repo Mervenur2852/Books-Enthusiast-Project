@@ -1,0 +1,104 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomik Alışkanlıklar",
+      "author": "James Clear",
+      "image": "/atomik-aliskanliklar.jpg",
+      "year": 2020,
+      "pages": 305,
+      "description": "Küçük değişikliklerin büyük sonuçlar doğurabileceğini anlatan etkileyici bir kişisel gelişim kitabı.",
+      "price": 180.99
+    },
+    {
+      "id": 2,
+      "title": "Derin Çalışma",
+      "author": "Cal Newport",
+      "image": "/derin çalışma.jpg",
+      "year": 2016,
+      "pages": 304,
+      "description": "Dikkatinizi dağıtan unsurlardan kurtulup nasıl daha verimli çalışabileceğinizi anlatan bir rehber.",
+      "price": 155.5
+    },
+    {
+      "id": 3,
+      "title": "Zengin Baba Yoksul Baba",
+      "author": "Robert Kiyosaki",
+      "image": "/zengin baba yoksul baba.jpg",
+      "year": 1997,
+      "pages": 336,
+      "description": "Finansal okuryazarlık üzerine klasikleşmiş bir kitap, parayla ilgili bakış açınızı değiştirebilir.",
+      "price": 210.75
+    },
+    {
+      "id": 4,
+      "title": "Düşün ve Zengin Ol",
+      "author": "Napoleon Hill",
+      "image": "/düşün ve sengin ol.jpg",
+      "year": 1937,
+      "pages": 238,
+      "description": "Başarı ve zenginliğin ardındaki düşünce yapısını anlatan klasik bir kişisel gelişim kitabı.",
+      "price": 140.0
+    },
+    {
+      "id": 5,
+      "title": "Alışkanlıkların Gücü",
+      "author": "Charles Duhigg",
+      "image": "/aliskanliklarin-gucu-charles-duhigg-z.avif",
+      "year": 2012,
+      "pages": 371,
+      "description": "Alışkanlıkların hayatımızı nasıl şekillendirdiğini anlatan bilimsel temellere dayalı bir kitap.",
+      "price": 175.25
+    },
+    {
+      "id": 6,
+      "title": "Bir Ömür Nasıl Yaşanır?",
+      "author": "İlber Ortaylı",
+      "image": "/bir ömür nasıl yaşanır.jpg",
+      "year": 2019,
+      "pages": 288,
+      "description": "İlber Ortaylı'nın tecrübelerinden yola çıkarak hayata dair verdiği önerilerle dolu bir kitap.",
+      "price": 195.9
+    },
+    {
+      "id": 7,
+      "title": "Bülbülü Öldürmek",
+      "author": "Harper Lee",
+      "image": "/bülbülü öldürmek.jpg",
+      "year": 1960,
+      "pages": 281,
+      "description": "Amerikan edebiyatının en önemli eserlerinden biri olan roman, adalet ve eşitlik kavramlarını ele alıyor.",
+      "price": 160.45
+    },
+    {
+      "id": 8,
+      "title": "Savaş Sanatı",
+      "author": "Sun Tzu",
+      "image": "/savas_sanati-1.webp",
+      "year": "M.Ö. 5. yy",
+      "pages": 273,
+      "description": "Strateji ve taktik üzerine yazılmış, askeri ve iş dünyasında rehber niteliğinde bir eser.",
+      "price": 130.6
+    },
+    {
+      "id": 9,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "/1984.jpg",
+      "year": 1949,
+      "pages": 328,
+      "description": "Totaliter rejimlerin insan üzerindeki etkilerini anlatan distopik bir klasik.",
+      "price": 220.8
+    },
+    {
+      "id": 10,
+      "title": "Cesur Yeni Dünya",
+      "author": "Aldous Huxley",
+      "image": "/cesur yeni dünya.jpg",
+      "year": 1932,
+      "pages": 311,
+      "description": "Geleceğe dair çarpıcı bir bakış açısı sunan, teknoloji ve toplum ilişkisini sorgulayan bir roman.",
+      "price": 185.35
+    }
+  ]
+}
